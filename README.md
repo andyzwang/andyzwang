@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andyzwang)](https://github.com/andyzwang/github-profile-trophy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=andyzwang)](https://github.com/andyzwang/github-readme-stats)
